@@ -1,0 +1,26 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "techstudent10.jump_markers",
+	"name": "Jump Markers",
+	"version": "v1.0.0",
+	"developer": "TechStudent10",
+	"description": "Show where you clicked on death",
+	"issues": {
+		"info": "Report issues to the GitHub issue tracker",
+		"url": "https://github.com/TechStudent10/JumpMarkers/issues"
+	},
+	"tags": [
+		"enhancement",
+		"gameplay",
+		"interface"
+	],
+	"links": {
+		"source": "https://github.com/TechStudent10/JumpMarkers"
+	}
+}
